@@ -118,8 +118,6 @@ For detailed documentation on the SDK architecture, API reference, and advanced 
 *   `mtap_sdk_architecture_v1.1.md`
 *   `mtap_sdk_documentation_v0.1.1.md`
 
-(These documents would typically be hosted, e.g., on ReadTheDocs or a project website.)
-
 ## Development
 
 This SDK is in active development. To set up a development environment:
@@ -139,9 +137,9 @@ pytest
 
 ## Contributing
 
-Contributions are welcome! Please refer to the project's contribution guidelines (CONTRIBUTING.md - to be created) and code of conduct (CODE_OF_CONDUCT.md - to be created).
+Contributions are welcome! Please refer to the project's contribution guidelines (CONTRIBUTING.md) and code of conduct (CODE_OF_CONDUCT.md).
 
 ## License
 
-This SDK is licensed under the MIT License. See the LICENSE file for details. (LICENSE file to be created)
+This SDK is licensed under the MIT License. See the LICENSE file for details.
 
